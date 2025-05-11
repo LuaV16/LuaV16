@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lua</h1>
 <h3 align="center">Student at 42 Madrid, passionate about problem-solving and coding</h3>
 
-- 🔭 I’m currently working on [libft](https://github.com/LuaV16/libft)
+- 🔭 I’m currently working on [get_next_line](https://github.com/LuaV16/get_next_line)
 
 - 🌱 I’m currently learning **C and building my skills one project at a time**
 
